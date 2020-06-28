@@ -6,6 +6,8 @@
 
 In this post we are going to look into Starbucks Offers Data, answer some interesting questions and then create a model that can predict weather a user will actually complete an offer or not.
 
+You can find more explaination at the bolg poset [Here](https://link.medium.com/lKQ8TfmZF7)
+
 ## What is success
 
 offer received -> offer viewed
