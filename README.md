@@ -1,6 +1,7 @@
-![GitHub](.assets/README/Starbucks-Offer-Analysis-solution.svg)
 
-![GitHub code size in bytes](.assets/README/Starbucks-Offer-Analysis-solution-1593315182550.svg)
+![GitHub](https://img.shields.io/github/license/kazifarhanuddin/Starbucks-Offer-Analysis-solution)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/kazifarhanuddin/Starbucks-Offer-Analysis-solution)
 
 # Starbucks-Offer-Analysis-solution
 
